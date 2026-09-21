@@ -1,0 +1,13 @@
+{
+  "cards": [
+    {
+      "date": "2026-09-21",
+      "file": "cards/2026-09-21-card.png",
+      "cdn": "https://cdn.jsdelivr.net/gh/flowparadox8/stoic-assets@main/cards/2026-09-21-card.png",
+      "raw": "https://raw.githubusercontent.com/flowparadox8/stoic-assets/main/cards/2026-09-21-card.png",
+      "bytes": 80784,
+      "dims": "1080x1920",
+      "quote": "Practice takes precedence over theory. \u2014 Musonius Rufus, Lectures V"
+    }
+  ]
+}
