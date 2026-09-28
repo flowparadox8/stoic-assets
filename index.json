@@ -31,6 +31,14 @@
       "cdn_pinned": "https://cdn.jsdelivr.net/gh/flowparadox8/stoic-assets@6cf03de63b98f9b7add9c8a4cf7b3949dab232a8/cards/2026-09-27-card.png",
       "cdn": "https://cdn.jsdelivr.net/gh/flowparadox8/stoic-assets@main/cards/2026-09-27-card.png",
       "raw": "https://raw.githubusercontent.com/flowparadox8/stoic-assets/main/cards/2026-09-27-card.png"
+    },
+    {
+      "date": "2026-09-28",
+      "file": "cards/2026-09-28-card.png",
+      "bytes": 82652,
+      "cdn_pinned": "https://cdn.jsdelivr.net/gh/flowparadox8/stoic-assets@86e74315c6a06c0b0db8e000156f9cf1dea40be8/cards/2026-09-28-card.png",
+      "cdn": "https://cdn.jsdelivr.net/gh/flowparadox8/stoic-assets@main/cards/2026-09-28-card.png",
+      "raw": "https://raw.githubusercontent.com/flowparadox8/stoic-assets/main/cards/2026-09-28-card.png"
     }
   ]
 }
