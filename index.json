@@ -286,6 +286,19 @@
       "thumb_cdn_pinned": "https://cdn.jsdelivr.net/gh/flowparadox8/stoic-assets@c57e4252ae5781a8f47de35fe39bb2301d809214/cards/2026-10-19-thumb-pin.jpg",
       "thumb_cdn": "https://cdn.jsdelivr.net/gh/flowparadox8/stoic-assets@main/cards/2026-10-19-thumb-pin.jpg",
       "thumb_raw": "https://raw.githubusercontent.com/flowparadox8/stoic-assets/main/cards/2026-10-19-thumb-pin.jpg"
+    },
+    {
+      "date": "2026-10-20",
+      "file": "cards/2026-10-20-card.png",
+      "bytes": 62593,
+      "cdn_pinned": "https://cdn.jsdelivr.net/gh/flowparadox8/stoic-assets@2116d1fa696e6e5b7aa8194d68483abc5e770b5a/cards/2026-10-20-card.png",
+      "cdn": "https://cdn.jsdelivr.net/gh/flowparadox8/stoic-assets@main/cards/2026-10-20-card.png",
+      "raw": "https://raw.githubusercontent.com/flowparadox8/stoic-assets/main/cards/2026-10-20-card.png",
+      "thumb_file": "cards/2026-10-20-thumb-pin.jpg",
+      "thumb_bytes": 144559,
+      "thumb_cdn_pinned": "https://cdn.jsdelivr.net/gh/flowparadox8/stoic-assets@58a41f028da366cf034ce4a00e1fd41e24d53626/cards/2026-10-20-thumb-pin.jpg",
+      "thumb_cdn": "https://cdn.jsdelivr.net/gh/flowparadox8/stoic-assets@main/cards/2026-10-20-thumb-pin.jpg",
+      "thumb_raw": "https://raw.githubusercontent.com/flowparadox8/stoic-assets/main/cards/2026-10-20-thumb-pin.jpg"
     }
   ]
 }
